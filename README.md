@@ -1,3 +1,5 @@
+# Treinamento primeiros passos no Github pelo Alura
+
 <h1>Sistema de cadastro de jogos</h1>
 
 >Status do projeto: em desenvolvimento
